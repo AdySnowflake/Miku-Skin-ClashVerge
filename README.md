@@ -1,12 +1,14 @@
 # 🌟 Clash Verge 初音未来透明 CSS 皮肤
 
+📖 **English**: [README_EN](README_EN.md)
+
 推荐使用最新版，请注意核对版本号。
 
 ## 📷 截图
 
-![Light](https://github.com/Duke486/Miku-Skin-ClashVerge/blob/main/Light.jpg)
+![Light](assets/Light.jpg)
 
-![Dark](https://github.com/Duke486/Miku-Skin-ClashVerge/blob/main/Dark.jpg)
+![Dark](assets/Dark.jpg)
 
 ## 📋 描述
 
@@ -26,27 +28,15 @@
 4. 将此仓库中的 CSS 代码粘贴进输入框。
 5. 保存并享受全新的初音未来主题界面。
 
+## 🙏 致谢
 
----
+本项目最初由 Duke486 创建，现已移交维护。这一栏仅用于记录并感谢他的原创与付出。
 
-# 🌟 Clash Verge Hatsune Miku Transparent CSS Skin
+<span style="display: inline-block; width: 80px; text-align: center;">
+  <a href="https://github.com/Duke486">
+    <img src="https://github.com/Duke486.png" width="80" height="80" alt="Duke486" style="border-radius: 50%;" />
+  </a>
+  <br />
+  <a href="https://github.com/Duke486">Duke486</a>
+</span>
 
-It is recommended to use the latest version, please check the version number.
-
-## 📋 Description
-
-A transparent Hatsune Miku CSS skin tailor-made for Clash Verge. It provides a stylish and modern look for your Clash Verge interface, blending a transparent, frosted design with a Hatsune Miku theme.
-
-## ✨ Features
-
-- Transparent UI
-- Perfect support for dark/light mode
-- Simple and easy to use
-
-## 🛠️ Installation Steps
-
-1. Open Clash Verge settings.
-2. Go to Theme Settings.
-3. Select "Edit CSS".
-4. Paste the CSS code from this repository into the input box.
-5. Save and enjoy your new Hatsune Miku themed interface.
