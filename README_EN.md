@@ -30,11 +30,12 @@ A transparent Hatsune Miku CSS skin tailor-made for Clash Verge. It provides a s
 
 This project was originally created by Duke486 and has since been transferred to a new maintainer. This section exists solely to record and thank his original work and contribution.
 
-<span style="display: inline-block; width: 80px; text-align: center;">
-  <a href="https://github.com/Duke486">
-    <img src="https://github.com/Duke486.png" width="80" height="80" alt="Duke486" style="border-radius: 50%;" />
-  </a>
-  <br />
-  <a href="https://github.com/Duke486">Duke486</a>
-</span>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Duke486"><img src="https://github.com/Duke486.png" width="80" height="80" alt="Duke486" style="border-radius: 50%;" /></a><br />
+      <a href="https://github.com/Duke486">Duke486</a>
+    </td>
+  </tr>
+</table>
 

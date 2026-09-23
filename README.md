@@ -32,11 +32,12 @@
 
 本项目最初由 Duke486 创建，现已移交维护。这一栏仅用于记录并感谢他的原创与付出。
 
-<span style="display: inline-block; width: 80px; text-align: center;">
-  <a href="https://github.com/Duke486">
-    <img src="https://github.com/Duke486.png" width="80" height="80" alt="Duke486" style="border-radius: 50%;" />
-  </a>
-  <br />
-  <a href="https://github.com/Duke486">Duke486</a>
-</span>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Duke486"><img src="https://github.com/Duke486.png" width="80" height="80" alt="Duke486" style="border-radius: 50%;" /></a><br />
+      <a href="https://github.com/Duke486">Duke486</a>
+    </td>
+  </tr>
+</table>
 
